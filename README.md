@@ -78,31 +78,26 @@ https://github.com/kritishelly2/Database_Monitoring_Backup_System
 
 # 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kritishelly2&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritishelly2&layout=compact&theme=github_dark"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kritishelly2&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritishelly2&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
-
----
 
 # 🔥 GitHub Streak
 
+## 🔥 GitHub Streak
+
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kritishelly2&theme=github-dark"/>
-
+  <img src="https://streak-stats.demolab.com?user=kritishelly2&theme=tokyonight"/>
 </p>
-
----
 
 # 🤝 Connect With Me
 
 <p>
 
-<a href="mailto:shellykriti2@gmail.com">
+<a href="mailto:kritishellyyy.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
