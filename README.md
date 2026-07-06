@@ -22,7 +22,7 @@ Python • SQL • MySQL • Power BI • ETL • Data Analytics
 - 💡 Passionate about solving real-world business problems using data
 - 🚀 Building end-to-end Data Analytics and ETL projects
 - 📍 Ghaziabad, Uttar Pradesh, India
-- 📫 Email: **shellykriti2@gmail.com**
+- 📫 Email: **kritishellyyy@gmail.com**
 
 ---
 
