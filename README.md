@@ -97,7 +97,7 @@ https://github.com/kritishelly2/Database_Monitoring_Backup_System
 
 <p>
 
-<a href="mailto:kritishellyyy.com">
+<a href="mailto:kritishellyyy@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
