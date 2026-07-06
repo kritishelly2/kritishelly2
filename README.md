@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kriti Shelly</h1>
 
 <h3 align="center">
-Aspiring Data Analyst & Data Engineer | Python • SQL • MySQL • Power BI • ETL
+Aspiring Data Analyst & Data Engineer
 </h3>
+
+<p align="center">
+Python • SQL • MySQL • Power BI • ETL • Data Analytics
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kritishelly2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -10,107 +14,96 @@ Aspiring Data Analyst & Data Engineer | Python • SQL • MySQL • Power BI �
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 B.Tech in Information Technology
-
-📊 Aspiring **Data Analyst** & **Data Engineer**
-
-🌱 Currently improving my skills in **Advanced SQL, ETL Pipelines, Power BI, and Data Engineering**
-
-💡 Interested in solving real-world business problems using data
-
-🚀 Passionate about building end-to-end analytics and automation projects
-
-📍 Ghaziabad, Uttar Pradesh, India
-
-📫 Reach me at **shellykriti2@gmail.com**
+- 🎓 B.Tech in Information Technology
+- 📊 Aspiring **Data Analyst** & **Data Engineer**
+- 🌱 Currently learning **Advanced SQL, ETL Pipelines, Power BI, and Data Engineering**
+- 💡 Passionate about solving real-world business problems using data
+- 🚀 Building end-to-end Data Analytics and ETL projects
+- 📍 Ghaziabad, Uttar Pradesh, India
+- 📫 Email: **shellykriti2@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
-
-### Programming
+# 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
 </p>
 
-### Data Analytics
+---
 
-- Python
-- SQL
-- MySQL
-- Pandas
-- NumPy
-- Power BI
-- Excel
-- ETL Pipelines
+# 🚀 Featured Projects
+
+## 📊 Enterprise SDLC Performance Analytics & ETL Pipeline
+
+- End-to-End ETL Pipeline using Python, MySQL, SQL & Power BI
+- Processed **1.14+ Million SDLC Issue Records**
+- Automated Data Cleaning, Validation & Transformation
+- SQL KPI Reports & Interactive Power BI Dashboard
+
+🔗 Repository  
+https://github.com/kritishelly2/SDLC-Performance_Analytics_ETL_Pipeline
 
 ---
 
-## 🚀 Featured Projects
+## 🗄️ Database Monitoring & Backup Automation System
 
-### 📊 Enterprise SDLC Performance Analytics & ETL Pipeline
+- Automated MySQL Database Monitoring
+- Backup Scheduling
+- Health Check Reports
+- Email Notification System
 
-- Built an end-to-end ETL pipeline using Python and MySQL
-- Processed over **1.14 Million SDLC issue records**
-- Generated KPI Reports
-- Developed an interactive Power BI Dashboard
-
-🔗 https://github.com/kritishelly2/SDLC-Performance_Analytics_ETL_Pipeline
-
----
-
-### 🗄️ Database Monitoring & Backup Automation System
-
-- Automated MySQL database monitoring
-- Backup scheduling
-- Email notifications
-- Health check reports
-
-🔗 https://github.com/kritishelly2/Database_Monitoring_Backup_System
+🔗 Repository  
+https://github.com/kritishelly2/Database_Monitoring_Backup_System
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kritishelly2&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kritishelly2&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritishelly2&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritishelly2&layout=compact&theme=github_dark"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=kritishelly2&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=kritishelly2&theme=github-dark"/>
 
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kritishelly2&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p>
 
 <a href="mailto:shellykriti2@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/kritishelly2">
@@ -121,8 +114,10 @@ Aspiring Data Analyst & Data Engineer | Python • SQL • MySQL • Power BI �
 
 ---
 
-## 💡 Quote
+# 💡 Quote
 
-> *"Turning raw data into meaningful insights through Python, SQL, ETL, and Power BI."*
+> **"Turning raw data into meaningful insights through Python, SQL, ETL, and Power BI."**
 
-⭐ Thanks for visiting my profile!
+---
+
+⭐ **Thanks for visiting my profile!**
