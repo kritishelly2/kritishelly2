@@ -75,23 +75,21 @@ https://github.com/kritishelly2/SDLC-Performance_Analytics_ETL_Pipeline
 https://github.com/kritishelly2/Database_Monitoring_Backup_System
 
 ---
+# 📌 Profile Highlights
 
-# 📈 GitHub Stats
+- Built real-world projects using Python, SQL, MySQL and Power BI
+- Developed ETL pipelines for large datasets
+- Created dashboards and KPI reports for analytics use cases
+- Focused on Data Analytics, Data Engineering and Automation
 
-## 📈 GitHub Stats
+---
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kritishelly2&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritishelly2&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
+# 🚀 Current Focus
 
-# 🔥 GitHub Streak
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kritishelly2&theme=tokyonight"/>
-</p>
+- Advanced SQL
+- Power BI Dashboards
+- ETL Pipelines
+- Data Engineering Projects
 
 # 🤝 Connect With Me
 
