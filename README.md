@@ -22,7 +22,7 @@ Python • SQL • MySQL • Power BI • ETL • Data Analytics
 - 💡 Passionate about solving real-world business problems using data
 - 🚀 Building end-to-end Data Analytics and ETL projects
 - 📍 Ghaziabad, Uttar Pradesh, India
-- 📫 Email: **kritishellyyy@gmail.com**
+- 📫 Email: **shellykriti2@gmail.com**
 
 ---
 
@@ -95,7 +95,7 @@ https://github.com/kritishelly2/Database_Monitoring_Backup_System
 
 <p>
 
-<a href="mailto:kritishellyyy@gmail.com">
+<a href="mailto:shellykriti2@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
